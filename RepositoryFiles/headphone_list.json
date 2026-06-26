@@ -10,5 +10,17 @@
     ],
     "version": 1,
     "noDspOffsetDb": 0.0
+  },
+  {
+    "id": "superluxhd668bvelourearpads",
+    "type": 1,
+    "brandName": [
+      "Superlux"
+    ],
+    "modelName": [
+      "HD 668B (velour earpads)"
+    ],
+    "version": 1,
+    "noDspOffsetDb": 0.0
   }
 ]
